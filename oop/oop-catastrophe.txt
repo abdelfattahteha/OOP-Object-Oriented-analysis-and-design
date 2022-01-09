@@ -1,0 +1,7 @@
+*OO Principles*
+
+1- Encapsulate what varies.
+
+2- Code to an interface rather than to an implementation.
+
+3- Each class in your application should have only one reason to change.

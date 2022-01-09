@@ -1,0 +1,4 @@
+Code once, look twice (or more!)
+
+Keep looking over your designs when you run into problems. 
+A decision you made earlier may be what’s causing you headaches now.
